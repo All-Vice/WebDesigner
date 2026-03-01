@@ -1,0 +1,5 @@
+{
+  "name": "WebForge - Site Builder & Host",
+  "description": "A high-performance meta-platform for architecting, managing, and 'hosting' web projects directly within the browser using a serialized state-to-DOM engine.",
+  "requestFramePermissions": []
+}
